@@ -4,8 +4,7 @@
 
 Welcome to **Show-Saved-WiFi**, a simple yet powerful Python tool designed to retrieve saved Wi-Fi profile information on Windows systems, including SSIDs and passwords (if available). It also supports saving to a file and sending results to Telegram (optional), all with a colorful, user-friendly interface!
 
-📌 **Repository**: [Show-Saved-WiFi](https://github.com/Mysteriza/Show-Saved-WiFi)  
-📦 **Repo Size**: ![Repo Size](https://img.shields.io/github/repo-size/Mysteriza/Show-Saved-WiFi?style=flat-square&color=orange)
+📌 **Repository**: [Show-Saved-WiFi](https://github.com/Mysteriza/Show-Saved-WiFi) 
 
 ---
 
