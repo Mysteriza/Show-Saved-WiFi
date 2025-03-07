@@ -47,3 +47,4 @@ SSID: OfficeNet
 Password: None
 ----------------------------------------
 ```
+![image](https://github.com/user-attachments/assets/0b6a25df-592a-4668-bf0f-17c32d153431)
